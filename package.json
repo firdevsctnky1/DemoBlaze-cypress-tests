@@ -1,0 +1,13 @@
+{
+    "name": "demoblaze-cypress-tests",
+    "version": "1.0.0",
+    "description": "Cypress E2E tests for Demoblaze (login + purchase) using POM",
+    "scripts": {
+      "test": "cypress run",
+      "cypress:open": "cypress open"
+    },
+    "devDependencies": {
+      "cypress": "^14.5.0"
+    }
+  }
+  
