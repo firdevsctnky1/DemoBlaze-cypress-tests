@@ -10,7 +10,7 @@ The suite covers two critical user journeys: **Login** (positive and negative) a
 ### Prerequisites
 - Node.js 16+ and npm
 - macOS/Linux/Windows
-- (Optional and I used) VS Code 
+- Optional: VS Code (this repo was authored in VS Code)
 
 ### Install
 ```bash
