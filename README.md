@@ -133,6 +133,8 @@ For demo purposes the tests use:
 You can change them in the spec files if needed.
 
 ---
+## Test Approach
+I focused on **critical paths with highest business impact**: login and purchase.  
 
 ## What I considered essential to test — and why
 
