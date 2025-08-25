@@ -223,7 +223,3 @@ I mainly relied on the Cypress docs and website (https://www.cypress.io). I used
 
 ## License
 For demo/testing purposes only. This project interacts with a public demo site.
-
-
-## AI Tool Usage and Disclosure
-I mainly relied on the Cypress docs and website (https://www.cypress.io). I used an AI assistant only for brainstorming, debugging ideas, minor setup tips (e.g., the support file), and README wording; all final code, the Page Object structure (aligned with my current project’s POM), and decisions are my own and were reviewed and run locally.
